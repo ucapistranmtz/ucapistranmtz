@@ -31,6 +31,7 @@ Databases
 
 I'm learning on
 ----
+![DevTalles](https://import.cdn.thinkific.com/cdn-cgi/image/width=55,dpr=2,onerror=redirect/643563%2Fcustom_site_themes%2Fid%2FovAKzuZwRfmmwOLdtki8_DEVTALLES-LOGO-VARIANTES.png)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
  
